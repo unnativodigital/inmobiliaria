@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(243, 240, 240);
+
+}
+
+.user-logo {
+    width: 120px;
+    height: 120px;
+    background-image: url(./img/Post\ Instagram\ Oportunidad\ Casa\ en\ Venta\ Azul\ y\ Rojo.png);
+    background-size: cover;
+    border-radius: 50%;
+    border: solid rgba(46, 45, 45, 0.422) 5px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+button{
+    display: block;
+    margin: auto;
+    height: 60px;
+    width: 260px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-style: normal;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-color: solid white 2px;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    word-spacing: 1px;
+    font-size: 15px;
+}
+
+.container {
+    margin-top: 46px;
+}
+
+
